@@ -1,11 +1,11 @@
 # Ecommerce-Order-Supply-Chain
 This repository is about the ecommerce orders done by the customers.
 
-Overview
+# Overview
 
 This repository contains a Power BI dashboard analyzing an e-commerce dataset. The dashboard provides insights into customer behavior, sales trends, and product performance.
 
-Dataset
+# Dataset
 
 The dataset includes multiple tables:
 
@@ -17,7 +17,7 @@ Products: Lists product names, categories, and prices.
 
 - Dataset Source : [Ecommerce Order and Supplychain Dataset](https://www.kaggle.com/datasets/bytadit/ecommerce-order-dataset)
 
-Features
+# Features
 
 Sales Analysis: Visualizes total sales over time and by geography.
 
@@ -25,7 +25,7 @@ Customer Insights: Identifies top customers and purchasing trends.
 
 Product Performance: Analyzes best-selling and underperforming products.
 
-Insights (Potential Findings in Your Dashboard)
+# Insights (Potential Findings in Your Dashboard)
 
 Sales Trends
 
