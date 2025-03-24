@@ -27,21 +27,13 @@ Product Performance: Analyzes best-selling and underperforming products.
 
 # Insights (Potential Findings in Your Dashboard)
 
-Sales Trends : Identify peak sales months and seasonal trends.
+Sales Trends : Identify peak sales months and seasonal trends. Check if any specific discounts or campaigns led to spikes in sales.
 
-Check if any specific discounts or campaigns led to spikes in sales.
+Customer Insights : Determine top customers based on revenue and order frequency. Analyze geographic trends to see where most orders are coming from.
 
-Customer Insights : Determine top customers based on revenue and order frequency.
+Product Performance : Identify best-selling products and categories. Find slow-moving inventory that needs marketing or discounts.
 
-Analyze geographic trends to see where most orders are coming from.
-
-Product Performance : Identify best-selling products and categories.
-
-Find slow-moving inventory that needs marketing or discounts.
-
-Order Analysis : Analyze average order value and repeat purchase rates.
-
-Identify reasons for order cancellations or delays.
+Order Analysis : Analyze average order value and repeat purchase rates. Identify reasons for order cancellations or delays.
 
 
 
