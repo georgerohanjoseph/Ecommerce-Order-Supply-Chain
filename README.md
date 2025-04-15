@@ -37,7 +37,7 @@ Order Analysis : Analyze average order value and repeat purchase rates. Identify
 
 # Data Story
 
-The Power BI dashboard reveals key insights into the e-commerce business's performance. Revenue has shown steady growth from 2016 to 2018, with **toys and garden tools** leading sales. The **majority of transactions (73%) are made via credit card**, highlighting a preference for digital payments. Regional analysis shows variations in **average order value**, with certain states contributing significantly higher revenue. Additionally, **order distribution across cities** suggests opportunities for improved logistics and targeted marketing. These insights can help the business optimize inventory, enhance customer engagement, and drive strategic growth.
+The Power BI dashboard reveals key insights into the e-commerce business's performance. Revenue has shown steady growth from 2016 to 2018, with **toys and garden tools** leading sales. Regional analysis shows variations in **average order value**, with certain states contributing significantly higher revenue. Additionally, **order distribution across cities** suggests opportunities for improved logistics and targeted marketing. These insights can help the business optimize inventory, enhance customer engagement, and drive strategic growth.
 
 
 
